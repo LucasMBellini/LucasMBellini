@@ -1,10 +1,6 @@
 ### Hi there 👋
 
 <!--
-**LucasMBellini/LucasMBellini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -15,8 +11,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasMBellini&show_icons=true&theme=dracula&count_private=true&"/>
+<div align="center">
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=LucasMBellini&count_private=true&show_icons=true&theme=dracula"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasMBellini&layout=compact"/>
 </div>
 
